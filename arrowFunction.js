@@ -1,4 +1,4 @@
-//arrow Function 예제 
+//arrow Function 예제 es6 문법
 const hello = () => {
     console.log('hello');
 };
@@ -14,7 +14,7 @@ const hello3 = (name,age) => {
 
 //함수의 리턴
 const hello4 = name => {
-    return  `hello4 ${name}`
+    return  `hello4 ${name}` // es6 문법
 }
 
-const hello5 = name => `hello5 ${name}`;
+const hello5 = name => `hello5 ${name}`; 

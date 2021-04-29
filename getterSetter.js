@@ -46,4 +46,3 @@ numbers.a = 9;
 
 console.log(numbers.sum);
 console.log(numbers.sum);
-console.log(numbers.sum);

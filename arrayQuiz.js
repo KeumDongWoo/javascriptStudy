@@ -1,4 +1,4 @@
-// 패스트캠퍼스 퀴즈
+// 패스트캠퍼스 퀴즈 10보다 큰숫자 개수
 function countBiggerThanTen(numbers){
     return counts = numbers.reduce((acc,current) => {
         if(current > 10){
